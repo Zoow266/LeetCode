@@ -1,0 +1,14 @@
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\bin\Debug\net9.0\SearchInsert.exe
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\bin\Debug\net9.0\SearchInsert.deps.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\bin\Debug\net9.0\SearchInsert.runtimeconfig.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\bin\Debug\net9.0\SearchInsert.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\bin\Debug\net9.0\SearchInsert.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.AssemblyInfoInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.AssemblyInfo.cs
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.csproj.CoreCompileInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\refint\SearchInsert.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\SearchInsert.genruntimeconfig.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\SearchInsert\SearchInsert\obj\Debug\net9.0\ref\SearchInsert.dll

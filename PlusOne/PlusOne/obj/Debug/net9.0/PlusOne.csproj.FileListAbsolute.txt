@@ -1,0 +1,14 @@
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\bin\Debug\net9.0\PlusOne.exe
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\bin\Debug\net9.0\PlusOne.deps.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\bin\Debug\net9.0\PlusOne.runtimeconfig.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\bin\Debug\net9.0\PlusOne.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\bin\Debug\net9.0\PlusOne.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.AssemblyInfoInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.AssemblyInfo.cs
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.csproj.CoreCompileInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\refint\PlusOne.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\PlusOne.genruntimeconfig.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\PlusOne\PlusOne\obj\Debug\net9.0\ref\PlusOne.dll

@@ -1,0 +1,14 @@
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\bin\Debug\net9.0\LenghtOfLast.exe
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\bin\Debug\net9.0\LenghtOfLast.deps.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\bin\Debug\net9.0\LenghtOfLast.runtimeconfig.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\bin\Debug\net9.0\LenghtOfLast.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\bin\Debug\net9.0\LenghtOfLast.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.AssemblyInfoInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.AssemblyInfo.cs
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.csproj.CoreCompileInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\refint\LenghtOfLast.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\LenghtOfLast.genruntimeconfig.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\LenghtOfLastWorld\LenghtOfLast\obj\Debug\net9.0\ref\LenghtOfLast.dll

@@ -1,0 +1,14 @@
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\bin\Debug\net9.0\RemovedDuplicate.exe
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\bin\Debug\net9.0\RemovedDuplicate.deps.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\bin\Debug\net9.0\RemovedDuplicate.runtimeconfig.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\bin\Debug\net9.0\RemovedDuplicate.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\bin\Debug\net9.0\RemovedDuplicate.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.AssemblyInfoInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.AssemblyInfo.cs
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.csproj.CoreCompileInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\refint\RemovedDuplicate.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\RemovedDuplicate.genruntimeconfig.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\RemoveDuplicatesfromSortedArray\RemovedDuplicate\obj\Debug\net9.0\ref\RemovedDuplicate.dll

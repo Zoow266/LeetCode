@@ -1,0 +1,14 @@
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.exe
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.deps.json
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.runtimeconfig.json
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.dll
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.pdb
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfo.cs
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.dll
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\refint\PalindromeNumber.dll
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.pdb
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.genruntimeconfig.cache
+C:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\Palindrome Number\PalindromeNumber\PalindromeNumber\obj\Debug\net8.0\ref\PalindromeNumber.dll

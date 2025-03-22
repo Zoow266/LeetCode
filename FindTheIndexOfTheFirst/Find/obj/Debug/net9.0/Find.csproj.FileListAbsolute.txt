@@ -1,0 +1,14 @@
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\bin\Debug\net9.0\Find.exe
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\bin\Debug\net9.0\Find.deps.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\bin\Debug\net9.0\Find.runtimeconfig.json
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\bin\Debug\net9.0\Find.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\bin\Debug\net9.0\Find.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.AssemblyInfoInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.AssemblyInfo.cs
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.csproj.CoreCompileInputs.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\refint\Find.dll
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.pdb
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\Find.genruntimeconfig.cache
+c:\Users\vladi\Desktop\C#\C#InDeepSeek\LeetCode\FindTheIndexOfTheFirst\Find\obj\Debug\net9.0\ref\Find.dll
